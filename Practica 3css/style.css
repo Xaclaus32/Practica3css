@@ -1,0 +1,52 @@
+header{
+    background-color: blue;
+    color: yellow;
+    text-align: center;
+    font-family: PottaOne;
+    font-size: xx-large;
+}
+@font-face {
+    font-family: PottaOne ;
+    src: url(recursos/Potta_One/PottaOne-Regular.ttf);
+}
+p.uno{
+background-color: teal;
+width: 400px;
+}
+p.dos{
+background-color: black;
+display: inline;
+color: yellow;
+width: 30cm;
+position: relative;
+top: -3.60cm;
+right: -10.5cm;
+line-height: 1cm;
+}
+hr.uno{
+    width: 20cm;
+    position: relative;
+    top: -3.75cm;
+    right: -2cm;
+}
+div.uno{
+    background-color: blue;
+    position: relative;
+    top: -3.75cm;
+}
+p.tres{
+    font-family: 'Coda Caption', sans-serif;
+    position: relative;
+    top: -3.75cm;
+}
+hr.dos{
+    width: 15cm;
+    position: relative;
+    top: -3.75cm;
+    right: -2cm;
+}
+p.cuatro{
+    font-family: 'Yusei Magic', sans-serif;
+    position: relative;
+    top: -3.75cm;
+}
